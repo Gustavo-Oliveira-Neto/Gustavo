@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🛠️Ferramentas que utilizo</h2>
 
 ###
 
